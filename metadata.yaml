@@ -1,0 +1,9 @@
+name: astrbot_plugin_comfy_gate
+display_name: 昔涟の生图插件
+desc: 群聊自然语言出图固定走快速版；私聊仅管理员可用，可指定工作流精细出图
+author: 昔涟
+version: 1.7.1
+repo: ""
+short_desc: ComfyUI 出图 — 群聊快速出图，私聊管理员可指定工作流
+astrbot_version: ">=4.16"
+support_platforms: [aiocqhttp, qq_official, telegram]
